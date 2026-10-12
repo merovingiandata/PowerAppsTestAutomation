@@ -1,0 +1,7 @@
+# yaml-language-server: $schema=https://aicore.merovingiandata.com/schemas/mero-repo.v1.json
+# Qué es este repo para el mapa de soluciones del AI Core (spec 0050 de ai-core-app). Si algo está mal,
+# corregilo acá mismo con un PR.
+version: 1
+tipo: interno
+estado: dormido
+# Para revisar: Copia del repo de Microsoft (2020)
